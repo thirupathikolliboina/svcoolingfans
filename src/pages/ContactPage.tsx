@@ -348,8 +348,16 @@ const ContactPage: React.FC = () => {
               >
                 Email Business Development
               </a>
-              <a href="tel:+919876543212" className="btn btn-outline">
+              <a href="tel:+919000282834" className="btn btn-outline">
                 Call: +91 90002 82834
+              </a>
+              <a
+                href="https://wa.me/919000282834?text=Hi%20SV%20Industries%2C%20I%20am%20interested%20in%20becoming%20a%20dealer.%20Please%20share%20more%20details."
+                className="btn btn-outline"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                WhatsApp Us
               </a>
             </div>
           </div>
